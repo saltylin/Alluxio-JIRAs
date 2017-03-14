@@ -53,7 +53,7 @@
 | 141220014 | ALLUXIO-­2606 | | |
 | 141220161 | ALLUXIO-­2605 | | |
 | 141220101 | ALLUXIO-­2631 | | |
-| 141220127 | ALLUXIO-­2630 | | |
+| 141220127 | ALLUXIO-­2630 | https://github.com/Alluxio/alluxio/pull/4886 | |
 | 141220004 | ALLUXIO-­2629 | | |
 | 141220102 | ALLUXIO-­2628 | | |
 | 141220136 | ALLUXIO-­2627 | | |
