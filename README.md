@@ -53,12 +53,12 @@
 | 141220014 | ALLUXIO-­2606 | | |
 | 141220161 | ALLUXIO-­2605 | | |
 | 141220101 | ALLUXIO-­2631 | | |
-| 141220127 | ALLUXIO-­2630 | https://github.com/Alluxio/alluxio/pull/4886 | |
+| 141220127 | ALLUXIO-­2630 | https://github.com/Alluxio/alluxio/pull/4886 | Y |
 | 141220004 | ALLUXIO-­2629 | | |
 | 141220102 | ALLUXIO-­2628 | | |
 | 141220136 | ALLUXIO-­2627 | | |
 | 141220040 | ALLUXIO-­2626 | | |
-| 141220070 | ALLUXIO-­2625 | | |
+| 141220070 | ALLUXIO-­2625 | https://github.com/Alluxio/alluxio/pull/4902 | Y |
 | 141220053 | ALLUXIO-­2624 | | |
 | 141220009 | ALLUXIO-­2619 | | |
 | 141220162 | ALLUXIO-­2620 | | |
@@ -71,7 +71,7 @@
 | 141220001 | ALLUXIO-­2612 | | |
 | 141220028 | ALLUXIO-­2610 | | |
 | 141220021 | ALLUXIO-­2611 | | |
-| 141220062 | ALLUXIO-­2609 | https://github.com/Alluxio/alluxio/pull/4881 | |
+| 141220062 | ALLUXIO-­2609 | https://github.com/Alluxio/alluxio/pull/4881 | Y |
 | 141220005 | ALLUXIO-­2608 | | |
 | 141220125 | ALLUXIO-­2607 | | |
 | 141220060 | ALLUXIO-­2604 | | |
