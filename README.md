@@ -44,7 +44,7 @@
 | 141090079 | ALLUXIO-­2268 | | |
 | 141220015 | ALLUXIO-­2344 | https://github.com/Alluxio/alluxio/pull/4906 | |
 | 141180016 | ALLUXIO-­2317 | | |
-| 141220105 | ALLUXIO-­2326 | | |
+| 141220105 | ALLUXIO-­2326 | https://github.com/Alluxio/alluxio/pull/4908 | |
 | 141290008 | ALLUXIO-­2129 | | |
 | 131160031 | ALLUXIO-­2267 | | |
 | 141220043 | ALLUXIO-­2621 | | |
@@ -145,3 +145,4 @@
 | 131130002 | | | |
 | 141220079 | | | |
 | 131160038 | | | |
+| 141220148 | | | |
