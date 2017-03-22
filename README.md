@@ -4,6 +4,13 @@
 
 由于AWS S3故障，国内无法正常访问jira网站，因此所有jira任务以pdf的方式供大家查看，请大家根据jira任务的编号在pdf中查找对应任务即可。
 
+Github最近访问速度较慢，如果clone不下来可以直接下载群文件里共享的压缩包，但解压后需先运行以下命令：
+
+```bash
+$git config core.filemode false
+$git remote add origin <your-folked-alluxio-repo-link>
+```
+
 由于人数较多，目前准备的jira任务暂时只能供一部分童鞋进行，/(ㄒoㄒ)/~~。第二批任务会稍后公布，相应的截止日期也会适当延后，请大家耐心等待~
 
 另外学号未出现在该页面的童鞋，麻烦更新群备注（学号-姓名），并在群里说明下，以便我及时更新。
