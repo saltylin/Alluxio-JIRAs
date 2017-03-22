@@ -74,7 +74,7 @@
 | 141220125 | ALLUXIO-­2607 | | |
 | 141220060 | ALLUXIO-­2604 | | |
 | 141270020 | ALLUXIO-­2591 | | |
-| 141220130 | ALLUXIO-­2603 | | |
+| 141220130 | ALLUXIO-­2603 | https://github.com/Alluxio/alluxio/pull/4948 | |
 | 141220035 | ALLUXIO-­2602 | | |
 | 141220042 | ALLUXIO-­2601 | | |
 | 141220068 | ALLUXIO-­2600 | | |
