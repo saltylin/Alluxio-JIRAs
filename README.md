@@ -46,9 +46,8 @@ $git remote add origin <your-folked-alluxio-repo-link>
 | 141220075 | ALLUXIO-­2582 | | |
 | 151070020 | ALLUXIO-­2583 | | |
 | 141220109 | ALLUXIO-­2584 | | |
-| 141220155 | ALLUXIO-­2585 | | |
+| 141220155 | ALLUXIO-­2585 | https://github.com/Alluxio/alluxio/pull/4989 | |
 | 141220015 | ALLUXIO-­2344 | https://github.com/Alluxio/alluxio/pull/4906 | |
-| 141180016 | ALLUXIO-­2317 | | |
 | 141220105 | ALLUXIO-­2326 | https://github.com/Alluxio/alluxio/pull/4908 | |
 | 131160031 | ALLUXIO-­2267 | | |
 | 141220043 | ALLUXIO-­2621 | | |
@@ -58,8 +57,6 @@ $git remote add origin <your-folked-alluxio-repo-link>
 | 141220161 | ALLUXIO-­2605 | | |
 | 141220101 | ALLUXIO-­2631 | | |
 | 141220127 | ALLUXIO-­2630 | https://github.com/Alluxio/alluxio/pull/4886 | Y |
-| 141220004 | ALLUXIO-­2629 | | |
-| 141220102 | ALLUXIO-­2628 | | |
 | 141220136 | ALLUXIO-­2627 | | |
 | 141220040 | ALLUXIO-­2626 | | |
 | 141220070 | ALLUXIO-­2625 | https://github.com/Alluxio/alluxio/pull/4902 | Y |
@@ -78,15 +75,15 @@ $git remote add origin <your-folked-alluxio-repo-link>
 | 141220062 | ALLUXIO-­2609 | https://github.com/Alluxio/alluxio/pull/4881 | Y |
 | 141220005 | ALLUXIO-­2608 | https://github.com/Alluxio/alluxio/pull/4966 | |
 | 141220125 | ALLUXIO-­2607 | | |
-| 141220060 | ALLUXIO-­2604 | | |
+| 141220060 | ALLUXIO-­2604 | https://github.com/Alluxio/alluxio/pull/4984 | |
 | 141270020 | ALLUXIO-­2591 | | |
 | 141220130 | ALLUXIO-­2603 | https://github.com/Alluxio/alluxio/pull/4948 | Y |
 | 141220035 | ALLUXIO-­2602 | https://github.com/Alluxio/alluxio/pull/4962 | |
 | 141220042 | ALLUXIO-­2601 | https://github.com/Alluxio/alluxio/pull/4938 | Y |
 | 141220068 | ALLUXIO-­2600 | https://github.com/Alluxio/alluxio/pull/4952 | Y |
 | 141220139 | ALLUXIO-­2599 | | |
-| 141220003 | ALLUXIO-­2598 | | |
-| 141220034 | ALLUXIO-­2597 | | |
+| 141220003 | ALLUXIO-­2598 | https://github.com/Alluxio/alluxio/pull/4985 | |
+| 141220034 | ALLUXIO-­2597 | https://github.com/Alluxio/alluxio/pull/4986 | |
 | 141220138 | ALLUXIO-­2596 | https://github.com/Alluxio/alluxio/pull/4936 | Y |
 | 141220103 | ALLUXIO-­2595 | https://github.com/Alluxio/alluxio/pull/4963 | |
 | 141220153 | ALLUXIO-­2592 | | |
@@ -161,3 +158,9 @@ $git remote add origin <your-folked-alluxio-repo-link>
 | 141220123 | | | |
 | 141220022 | | | |
 | 141220129 | | | |
+| 141220102 | | | |
+| 141220090 | | | |
+| 141220146 | | | |
+| 141180016 | | | |
+| 141220094 | | | |
+| 141220004 | | | |
