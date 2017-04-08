@@ -174,3 +174,5 @@ $git remote add origin <your-folked-alluxio-repo-link>
 | 141220010 | ALLUXIO-2758 | | |
 | 141220011 | ALLUXIO-2757 | | |
 | 141220013 | ALLUXIO-2756 | | |
+| 141220039 | ALLUXIO-2755 | | |
+| 141220096 | ALLUXIO-2754 | | |
