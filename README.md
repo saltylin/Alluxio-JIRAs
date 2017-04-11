@@ -69,7 +69,6 @@ $git remote add origin <your-folked-alluxio-repo-link>
 | 141220067 | ALLUXIO-­2613 | | |
 | 141220001 | ALLUXIO-­2612 | | |
 | 141220028 | ALLUXIO-­2610 | https://github.com/Alluxio/alluxio/pull/4961 | Y |
-| 141220021 | ALLUXIO-­2611 | | |
 | 141220062 | ALLUXIO-­2609 | https://github.com/Alluxio/alluxio/pull/4881 | Y |
 | 141220005 | ALLUXIO-­2608 | https://github.com/Alluxio/alluxio/pull/4966 | Y |
 | 141220125 | ALLUXIO-­2607 | https://github.com/Alluxio/alluxio/pull/5016 | Y |
@@ -176,3 +175,4 @@ $git remote add origin <your-folked-alluxio-repo-link>
 | 141220013 | ALLUXIO-2756 | | |
 | 141220039 | ALLUXIO-2755 | | |
 | 141220096 | ALLUXIO-2754 | | |
+| 141220021 | ALLUXIO-2753 | | |
