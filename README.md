@@ -55,7 +55,7 @@ $git remote add origin <your-folked-alluxio-repo-link>
 | 141220158 | ALLUXIO-­2615 | https://github.com/Alluxio/alluxio/pull/4926 | Y |
 | 141220161 | ALLUXIO-­2605 | https://github.com/Alluxio/alluxio/pull/5112 | |
 | 141220127 | ALLUXIO-­2630 | https://github.com/Alluxio/alluxio/pull/4886 | Y |
-| 141220040 | ALLUXIO-­2626 | | |
+| 141220040 | ALLUXIO-­2626 | https://github.com/Alluxio/alluxio/pull/5276 | Y |
 | 141220070 | ALLUXIO-­2625 | https://github.com/Alluxio/alluxio/pull/4902 | Y |
 | 141220053 | ALLUXIO-­2624 | https://github.com/Alluxio/alluxio/pull/5219 | Y |
 | 141220009 | ALLUXIO-­2619 | | |
@@ -66,7 +66,7 @@ $git remote add origin <your-folked-alluxio-repo-link>
 | 141220110 | ALLUXIO-­2617 | https://github.com/Alluxio/alluxio/pull/4990 | Y |
 | 141220048 | ALLUXIO-­2614 | https://github.com/Alluxio/alluxio/pull/4965 | Y |
 | 141220067 | ALLUXIO-­2613 | https://github.com/Alluxio/alluxio/pull/5133 | Y |
-| 141220001 | ALLUXIO-­2612 | | |
+| 141220001 | ALLUXIO-­2612 | https://github.com/Alluxio/alluxio/pull/5284 | Y |
 | 141220028 | ALLUXIO-­2610 | https://github.com/Alluxio/alluxio/pull/4961 | Y |
 | 141220062 | ALLUXIO-­2609 | https://github.com/Alluxio/alluxio/pull/4881 | Y |
 | 141220005 | ALLUXIO-­2608 | https://github.com/Alluxio/alluxio/pull/4966 | Y |
@@ -125,7 +125,7 @@ $git remote add origin <your-folked-alluxio-repo-link>
 | 141220046 | ALLUXIO-­2715 | https://github.com/Alluxio/alluxio/pull/5155 | Y |
 | 141220033 | ALLUXIO-­2714 | https://github.com/Alluxio/alluxio/pull/5050 | Y |
 | 141220143 | ALLUXIO-­2675 | | |
-| 141220017 | ALLUXIO-­2673 | | |
+| 141220017 | ALLUXIO-­2673 | https://github.com/Alluxio/alluxio/pull/5275 | Y |
 | 141220099 | ALLUXIO-­2671 | https://github.com/Alluxio/alluxio/pull/5051 | Y |
 | 141220141 | ALLUXIO-­2670 | https://github.com/Alluxio/alluxio/pull/5095 | |
 | 141220055 | ALLUXIO-­2669 | | |
@@ -169,11 +169,11 @@ $git remote add origin <your-folked-alluxio-repo-link>
 | 学号 | jira 任务编号 | Pull Request 链接 | merged |
 |:---------:|:---------------:|:-------------------------------------------------:|:---:|
 | 141220027 | ALLUXIO-­2759 | | |
-| 141220010 | ALLUXIO-2758 | https://github.com/Alluxio/alluxio/pull/5156 | |
+| 141220010 | ALLUXIO-2758 | https://github.com/Alluxio/alluxio/pull/5156 | Y |
 | 141220011 | ALLUXIO-2757 | https://github.com/Alluxio/alluxio/pull/5218 | Y |
 | 141220013 | ALLUXIO-2756 | | |
 | 141220039 | ALLUXIO-2755 | | |
 | 141220096 | ALLUXIO-2754 | | |
 | 141220021 | ALLUXIO-2753 | https://github.com/Alluxio/alluxio/pull/5142 | Y |
 | 141070010 | ALLUXIO-2752 | | |
-| 141220014 | ALLUXIO-­2751 | | |
+| 141220014 | ALLUXIO-­2751 | https://github.com/Alluxio/alluxio/pull/5229 | Y |
